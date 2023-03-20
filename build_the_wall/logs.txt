@@ -1,0 +1,16 @@
+DEBUG:root:Consumer 1 started
+DEBUG:root:Consumer 2 started
+DEBUG:root:Consumer 3 started
+DEBUG:root:Consumer 3 built Profile 1 - Section 3. Workdays - 2
+DEBUG:root:Consumer 2 built Profile 1 - Section 2. Workdays - 5
+DEBUG:root:Consumer 1 built Profile 1 - Section 1. Workdays - 9
+DEBUG:root:Consumer 3 built Profile 2 - Section 1. Workdays - 13
+DEBUG:root:Consumer 1 built Profile 3 - Section 2. Workdays - 8
+DEBUG:root:Consumer 2 built Profile 3 - Section 1. Workdays - 13
+DEBUG:root:Consumer 1 built Profile 3 - Section 4. Workdays - 11
+DEBUG:root:Consumer 3 built Profile 3 - Section 3. Workdays - 13
+DEBUG:root:Consumer 2 built Profile 3 - Section 5. Workdays - 13
+DEBUG:root:Consumer 0 killed
+DEBUG:root:Consumer 1 killed
+DEBUG:root:Consumer 2 killed
+DEBUG:root:Finished profiles - [Profile 1 - [Section 1 feet - 30, Section 2 feet - 30, Section 3 feet - 30], Profile 2 - [Section 1 feet - 30], Profile 3 - [Section 1 feet - 30, Section 2 feet - 30, Section 3 feet - 30, Section 4 feet - 30, Section 5 feet - 30]]

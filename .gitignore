@@ -1,0 +1,33 @@
+# Application generated files
+#############################
+tmp/
+.idea/
+.vscode/
+
+# Framework & runtime files
+###########################
+node_modules/
+.pytest_cache/
+__pycache__/
+lib/
+include/
+bin/
+venv/
+.venv/
+*virtualenv/
+.cache/
+.serverless/
+package-lock.json
+.coverage*
+*.egg-info/
+*.pyc
+reports
+htmlcov
+
+# IDE stuff
+###########
+*.iml
+*.ipr
+*.iws
+*.idea
+*.idea/*
